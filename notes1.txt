@@ -1,0 +1,2 @@
+In this note doc, I'll just reiterate what I heard. 
+We create a file (use the R files window internally to name it). Stage. Commit. Then push, and it should show up in the Github. 
